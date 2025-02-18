@@ -2,6 +2,7 @@
 name = "react-js-project"
 version = "0.1.0"
 description = "A project integrating React.js with a Python backend."
+package-mode = false
 authors = ["Votre Nom <votre.email@example.com>"]
 
 [tool.poetry.dependencies]
