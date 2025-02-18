@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import '../styles/App.css'; 
+import '../styles/Navbar.css'; 
 
 
 const Navbar = ({ handleNavigation, children }) => {

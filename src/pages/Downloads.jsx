@@ -1,5 +1,5 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
+import '../styles/Global.css'; // Import du fichier CSS personnalisé
 
 // Composant pour la page Downloads
 const Downloads = ({ handleNavigation }) => (
