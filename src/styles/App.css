@@ -28,12 +28,12 @@ html, body {
     overflow: hidden;
 }
 
-/* Swiper Container Styling for Horizontal Scroll */
+/* Swiper Container Styling for Vertical Scroll */
 .swiper {
     width: 100vw;
     height: 100vh;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 /* App Container */

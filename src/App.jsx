@@ -68,10 +68,10 @@ const App = () => {
 
       {/* Swiper Container */}
       <Swiper
-        direction="horizontal"
+        direction="vertical" // Défilement vertical
         spaceBetween={30}
         slidesPerView={1}
-        mousewheel={{ forceToAxis: true }} // Permet de swiper horizontalement uniquement
+        mousewheel={{ forceToAxis: true }} // Permet de swiper verticalement uniquement
         modules={[Mousewheel]}
         touchEventsTarget="container"
         pagination={{ clickable: true }}

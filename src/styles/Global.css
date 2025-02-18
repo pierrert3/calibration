@@ -101,3 +101,18 @@
     text-decoration: underline;
   }
   
+  .footer {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 10px;
+    color: black;
+    background: none;
+    border: none;
+  }
+  
+  .calibration-text {
+    margin: 0;
+    background: none;
+    border: none;
+  }

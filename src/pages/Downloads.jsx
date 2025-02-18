@@ -56,8 +56,8 @@ const Downloads = ({ handleNavigation }) => (
       </div>
 
     {/* Footer */}
-    <footer className="text-center text-muted mt-auto py-3">
-      © Calibration 2024
+    <footer className="footer">
+      <p className="calibration-text">@ Calibration 2024</p>
     </footer>
   </div>
 );
