@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^7.1.1",
+    "swiper": "^11.2.1"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7"
+  },
+  "scripts": {
+    "setup": "poetry install && npm install",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
