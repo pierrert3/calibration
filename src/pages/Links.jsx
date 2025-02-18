@@ -1,5 +1,4 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
 
 // Composant pour la page Links
 const Links = ({ handleNavigation }) => (

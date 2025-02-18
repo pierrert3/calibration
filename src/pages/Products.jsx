@@ -1,5 +1,4 @@
 import React from 'react';
-import '../styles/Global.css'; // Import du fichier CSS personnalisé
 
 // Composant pour la page Products
 const Products = ({ handleNavigation }) => (

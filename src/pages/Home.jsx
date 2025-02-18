@@ -11,7 +11,7 @@ const Home = () => (
         </h2>
       </header>
       <main className="text-center mb-4">
-        <p className="lead">
+        <p>
           Matériels et Logiciels pour l'enseignement des mathématiques et des sciences.
         </p>
         <p>

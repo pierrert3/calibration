@@ -51,7 +51,7 @@
   .company,
   .downloads,
   .links {
-    background-image: url('/images/default-bg.jpg'); /* Utilisez une image par défaut ou spécifique pour ces pages */
+    background-image: url('../../public/capteur1.jpg'); /* Utilisez une image par défaut ou spécifique pour ces pages */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

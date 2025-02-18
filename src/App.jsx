@@ -11,6 +11,7 @@ import Downloads from './pages/Downloads';
 import Links from './pages/Links';
 import Navbar from './components/Navbar'; // Importation du composant Navbar
 
+import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
 import './styles/App.css'; // Importation des styles globaux
 
 const App = () => {
