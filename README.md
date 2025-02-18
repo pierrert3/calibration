@@ -34,5 +34,3 @@ Cette commande installera à la fois les dépendances Python via Poetry et les d
 
     ```sh
     npm run dev
-  
-L'application sera accessible à l'adresse http://localhost:3000.
