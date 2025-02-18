@@ -18,8 +18,8 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
 1. **Cloner le dépôt** :
 
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name 
+   git clone https://github.com/pierrert3/calibration.git
+   cd calibration
 
 2. **Installer Poetry** : Pour installer Poetry, suivez les instructions sur la [page officielle de Poetry](https://python-poetry.org/docs/#installation).
 
