@@ -24,7 +24,7 @@ const Home = () => (
             rel="noopener noreferrer"
             className="btn btn-warning"
           >
-            Cliquer ici pour télécharger notre <strong>Catalogue 2024-2025</strong>.
+            <strong>Cliquer ici pour télécharger notre Catalogue 2024-2025</strong>.
           </a>
         </p>
       </main>

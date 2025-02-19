@@ -29,7 +29,8 @@ const Navbar = ({ handleNavigation, children }) => {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            CALIBRATION
+            <strong>CALIBRATION</strong>
+            {/*<img src="sablier.jpg" alt="Sablier" className="ms-2" style={{ height: 30, width: 20 }} />*/}
             <i className='fab fa-typo3' />
           </Link>
           <div className='menu-icon' onClick={handleClick}>

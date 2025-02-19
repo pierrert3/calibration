@@ -63,7 +63,6 @@ const App = () => {
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
-          <button className="search-button" type="submit">Rechercher</button>
         </form>
       </Navbar>
 

@@ -40,17 +40,13 @@
 }
 
 .search-button {
-    background-color: #ffc107;
+    background-color: #fff;
     color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     padding: 5px 10px;
     margin-left: 10px;
-}
-
-.search-button:hover {
-    background-color: #ffc107;
 }
 
 .container {
@@ -84,15 +80,15 @@
 }
 
 .btn-warning {
-    color: #212529;
-    background-color: #ffc107;
-    border-color: #ffc107;
+    color: #fff;
+    background-color: #ee7f00;
+    border-color: #ee7f00;
 }
 
 .btn-warning:hover {
-    color: #212529;
-    background-color: #e0a800;
-    border-color: #d39e00;
+    color: #fff;
+    background-color: #ee7f00;
+    border-color: #ee7f00;
 }
 
 .btn-link {
