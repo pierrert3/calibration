@@ -40,7 +40,7 @@
 }
 
 .search-button {
-    background-color: #FF9933;
+    background-color: #ffc107;
     color: black;
     border: none;
     border-radius: 5px;
@@ -50,7 +50,7 @@
 }
 
 .search-button:hover {
-    background-color: #e68a00;
+    background-color: #ffc107;
 }
 
 .container {
